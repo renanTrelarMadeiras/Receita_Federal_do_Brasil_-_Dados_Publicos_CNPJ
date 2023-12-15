@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+EXTRACTED_FILES/
+dados/
+OUTPUT_FILES/
+PATH_PARQUET
