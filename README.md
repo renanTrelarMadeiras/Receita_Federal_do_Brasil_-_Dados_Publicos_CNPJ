@@ -11,8 +11,9 @@ Nesse repositório consta um processo de ETL para **i)** baixar os arquivos; **i
 ---------------------
 
 ### Infraestrutura necessária:
-- [Python 3.8](https://www.python.org/downloads/release/python-3810/)
-- [PostgreSQL 14.2](https://www.postgresql.org/download/)
+- [Python 3.10](https://www.python.org/downloads/release/python-3810/)
+- ~[PostgreSQL 14.2](https://www.postgresql.org/download/)~
+- duckdb 0.10
   
 ---------------------
 
